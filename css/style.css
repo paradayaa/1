@@ -175,3 +175,152 @@ input:checked + .slider:before {
 .slider.round:before {
   border-radius: 50%;
 }
+
+.Third-Block {
+	padding-top: 32px;
+	padding-bottom: 32px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.Third-Block-first-variant {
+	background: #FFFFFF;
+	border-radius: 10px;
+	width: 22.75%;
+}
+
+
+.tb-fv-top img {
+	padding: 12px 12px 0 12px;
+}
+
+.tb-fv-top-h3 {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 800;
+	font-size: 18px;
+	line-height: 110%;
+	font-feature-settings: 'liga' off;
+	color: #000000;
+	padding: 0 12px 12px 16px;
+}
+
+.tb-fv-bottom {
+	display: flex;
+}
+
+.Third-Block-first-variant a {
+	text-decoration: none;
+}
+
+.bot-left img {
+	padding: 0 12px 8px 16px;
+}
+
+#bot-left-lstimg {
+	padding: 0 12px 14px 16px;
+}
+
+.steppe_tag {
+	background: #93FF82;
+	border: 1px solid #000000;
+	border-radius: 6px;
+	width: 100px;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 120%;
+	letter-spacing: -0.019em;
+	color: #000000;
+	padding: 4px 8px;
+}
+
+.bot-right-p2 {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	width: 204px;
+	line-height: 120%;
+	font-feature-settings: 'liga' off;
+	color: #000000;
+	padding: 4px 0 0 4px;
+}
+
+.Third-Block-second-variant{
+	width: 52.3%;
+	background: #FFFFFF;
+	border-radius: 10px;
+}
+
+.Third-Block-second-variant img {
+	padding: 16px;
+}
+
+.Third-Block-second-variant h2 {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 800;
+	font-size: 36px;
+	line-height: 110%;
+	font-feature-settings: 'liga' off;
+	color: #000000;
+	padding: 0 0 28px 16px;
+}
+
+.Third-Block-third-variant {
+	background: #FFFFFF;
+	border-radius: 10px;
+	width: 22.75%;
+	height: 507.6px;
+	overflow-y: scroll;
+	
+}
+
+.Third-Block-third-variant::-webkit-scrollbar {
+    width: 4px;
+}
+ 
+.Third-Block-third-variant::-webkit-scrollbar-track {
+    background-color: #FFFFFF;
+    border-radius: 100px;
+}
+ 
+.Third-Block-third-variant::-webkit-scrollbar-thumb {
+    background-color: #9C9CFF;
+    border-radius: 100px;
+}
+
+.thirdthird-p1 {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 120%;
+	color: #000000;
+	padding: 12px 0 12px 16px;
+}
+
+.line-tb {
+	border: 1px solid #E3E3E3;
+	width: 88.7%;
+	margin: auto;
+}
+
+.news-tb {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 18px;
+	line-height: 120%;
+	text-transform: lowercase;
+	font-feature-settings: 'liga' off;
+	color: #000000;
+	padding: 12px 0 30px 16px;
+}
+
+.clr-tb {
+	color: #777777;
+}
